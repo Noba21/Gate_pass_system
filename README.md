@@ -1,4 +1,4 @@
-🚪 Gate Pass System
+**🚪 Gate Pass System
 📌 Overview
 
 The Gate Pass System is a web-based application designed to manage and monitor the movement of visitors and employees within an organization. It helps automate gate pass issuance, track entry/exit records, and improve overall security and efficiency.
@@ -38,3 +38,4 @@ Gate_pass_system/
 ├── Program.cs          # Entry point
 ├── Startup.cs          # App configuration
 └── .csproj             # Project file
+**
